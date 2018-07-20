@@ -8,7 +8,7 @@ Los primeros pasos a seguir es la descarga e instalación del programa **Git** d
 
 He seguido algunos tutoriales, los cuales me han servido para entender y poder seguir con Git.
 
-+ [Cómo empezar con Git](https://github.com/felipefcor/blog/blob/master/C%C3%B3mo%20empezar%20con%20Git.md)
++ [Cómo empezar con Git](https://github.com/felipefcor/blog/blob/master/C%C3%B3mo%20empezar%20con%20Git.md) (mi inspiración, gracias)
 + [Libro de Git](https://git-scm.com/book/en/v2)
 
 Otra herramienta muy importante para trabajar con Github es  Markdown, es un  lenguaje y también una herramienta de software que convierte lenguaje en HTML válido. Puedes aprender a usar Markdown desde aquí:
