@@ -25,10 +25,10 @@ En este video verás en tan sólo 5 minutos una visión del día a día de una p
 
 * #### [DNS explained][link4]
 [link4]: https://www.youtube.com/watch?v=72snZctFFtA
-¿Qué es Domain Name System? Este video te explica lo que és y la importancia del DNS
+¿Qué es Domain Name System? Este video te explica lo que és y la importancia del DNS.
 
 * #### [What is programming?][link5]
 [link5]: https://www.lynda.com/Programming-Foundations-tutorials/What-programming/83603/90430-4.html
-Como su nombre indica, qué es realmente programar
+Como su nombre indica, este video nos habla de qué es realmente programar.
 
 
