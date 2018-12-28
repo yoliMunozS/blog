@@ -22,3 +22,5 @@ real, eso es bastante eficiente a la hora de crear las **_@media (Media Query)_*
 
 Al final se consigue hacer un proyecto de página web en la cual se empieza a tocar un 
 poquito de **JavaScript**.
+
+
